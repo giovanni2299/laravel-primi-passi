@@ -6,19 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <header>
-        <ul>
-            <li>
-                <a href="">
-
-                </a>
-            </li>
-            <li>
-                <a href="">
-                    
-                </a>
-            </li>
-        </ul>
-    </header>
+    <h1>primo link</h1>
 </body>
 </html>

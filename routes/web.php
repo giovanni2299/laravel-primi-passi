@@ -17,12 +17,16 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/primo', function () {
+Route::get('/header', function () {
+    return view('header');
+});
+
+Route::get('primo', function(){
     return view('primo');
 });
 
 Route::get('/secondo', function () {
-    return view('terzo');
+    return view('secondo');
 });
 
 Route::get('/terzo', function () {
